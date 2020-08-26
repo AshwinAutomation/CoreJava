@@ -1,0 +1,73 @@
+2020-02-14 14:07:17,626 [main] INFO com.oop.staticmember.Example1 - Variable a is created 
+2020-02-14 14:07:17,631 [main] INFO com.oop.staticmember.Example1 - Variable b is created 
+2020-02-14 14:07:17,631 [main] INFO com.oop.staticmember.Example1 - main
+2020-02-14 14:07:17,631 [main] INFO com.oop.staticmember.Example1 - a :10
+2020-02-14 14:07:17,632 [main] INFO com.oop.staticmember.Example1 - b :20
+2020-02-14 18:13:13,389 [main] INFO com.oop.staticmember.Example2 - Variable a is created
+2020-02-14 18:13:13,394 [main] INFO com.oop.staticmember.Example2 - Variable b is created
+2020-02-14 18:15:36,173 [main] INFO com.oop.staticmember.Example2 - Variable a is created
+2020-02-14 18:15:36,177 [main] INFO com.oop.staticmember.Example2 - Variable b is created
+2020-02-14 18:15:36,186 [main] INFO com.oop.staticmember.Example2 - main
+2020-02-14 18:15:36,186 [main] INFO com.oop.staticmember.Example2 - a : 10
+2020-02-14 18:15:36,186 [main] INFO com.oop.staticmember.Example2 - b : 20
+2020-02-14 18:31:53,907 [main] INFO Example3 - m1:a
+2020-02-14 18:31:53,913 [main] INFO Example3 - main
+2020-02-14 18:31:53,913 [main] INFO Example3 - a :10
+2020-02-14 18:31:53,914 [main] INFO Example3 - b :0
+2020-02-14 18:33:00,741 [main] INFO Example3 - m1:a
+2020-02-14 18:33:00,745 [main] INFO Example3 - m2:b
+2020-02-14 18:33:00,746 [main] INFO Example3 - main
+2020-02-14 18:33:00,746 [main] INFO Example3 - a :10
+2020-02-14 18:33:00,746 [main] INFO Example3 - b :0
+2020-02-14 18:33:00,746 [main] INFO Example3 - c :20
+2020-02-14 20:42:45,572 [main] INFO com.oop.staticmember.Example4 - main
+2020-02-14 20:42:45,578 [main] INFO com.oop.staticmember.Example4 - in m1
+2020-02-14 20:42:45,578 [main] INFO com.oop.staticmember.Example4 - in m2, start
+2020-02-14 20:42:45,578 [main] INFO com.oop.staticmember.Example4 - in m2, end
+2020-02-14 20:42:45,578 [main] INFO com.oop.staticmember.Example4 - main end
+2020-02-14 22:10:55,277 [main] INFO com.oop.staticmember.Example5 - a : 20
+2020-02-14 22:10:55,286 [main] INFO com.oop.staticmember.Example5 - a : 10
+2020-02-14 22:52:43,641 [main] INFO com.oop.staticmember.Example6 - a : 50
+2020-02-14 22:52:43,646 [main] INFO com.oop.staticmember.Example6 - a : 50
+2020-02-14 23:36:22,064 [main] INFO com.oop.staticmember.Example7 - a : 0
+2020-02-14 23:36:22,070 [main] INFO com.oop.staticmember.Example7 - a : 50
+2020-02-14 23:36:22,070 [main] INFO com.oop.staticmember.Example7 - a : 50
+2020-02-14 23:42:08,872 [main] INFO com.oop.staticmember.Example8 - a : 0
+2020-02-14 23:42:08,878 [main] INFO com.oop.staticmember.Example8 - a : 50
+2020-02-14 23:42:08,878 [main] INFO com.oop.staticmember.Example8 - a : 0
+2020-02-14 23:43:22,886 [main] INFO com.oop.staticmember.Example8 - a : 0
+2020-02-14 23:43:22,890 [main] INFO com.oop.staticmember.Example8 - a : 50
+2020-02-14 23:43:22,891 [main] INFO com.oop.staticmember.Example8 - a : 50
+2020-02-14 23:49:02,513 [main] INFO com.oop.staticmember.Example8 - a : 0
+2020-02-14 23:49:02,520 [main] INFO com.oop.staticmember.Example8 - a : 50
+2020-02-14 23:49:02,521 [main] INFO com.oop.staticmember.Example8 - a : 0
+2020-02-14 23:49:21,266 [main] INFO com.oop.staticmember.Example9 - a : 0
+2020-02-14 23:49:21,278 [main] INFO com.oop.staticmember.Example9 - a : 50
+2020-02-14 23:49:21,278 [main] INFO com.oop.staticmember.Example9 - a : 50
+2020-02-14 23:55:01,493 [main] INFO com.oop.staticmember.Example10 - a : 0
+2020-02-14 23:55:01,497 [main] INFO com.oop.staticmember.Example10 - a : 0
+2020-02-14 23:55:01,498 [main] INFO com.oop.staticmember.Example10 - a : 0
+2020-02-15 00:16:08,383 [main] INFO com.oop.staticmember.Example11 - 0.................0
+2020-02-15 00:16:08,387 [main] INFO com.oop.staticmember.Example11 - 10.................20
+2020-02-15 00:16:08,387 [main] INFO com.oop.staticmember.Example11 - 30.................40
+2020-02-15 00:16:08,387 [main] INFO com.oop.staticmember.Example11 - 30.................40
+2020-02-15 00:16:08,388 [main] INFO com.oop.staticmember.Example11 - 70.................80
+2020-02-16 12:40:14,673 [main] INFO com.oop.staticblock.StaticBlock1 - 1st static block
+2020-02-16 12:40:14,683 [main] INFO com.oop.staticblock.StaticBlock1 - 2nd static block
+2020-02-16 12:40:14,683 [main] INFO com.oop.staticblock.StaticBlock1 - main
+2020-02-16 12:45:41,365 [main] INFO com.oop.staticblock.StaticBlock2 - 1st static block
+2020-02-16 12:45:41,373 [main] INFO com.oop.staticblock.StaticBlock2 - 2nd static block
+2020-02-16 12:45:41,374 [main] INFO com.oop.staticblock.StaticBlock2 - 3rd static block
+2020-02-16 12:45:41,374 [main] INFO com.oop.staticblock.StaticBlock2 - main
+2020-02-16 19:24:20,115 [main] INFO com.oop.staticblock.StaticBlock3 - 1st static block
+2020-02-16 19:24:20,121 [main] INFO com.oop.staticblock.StaticBlock3 - 3rd static block
+2020-02-16 19:24:20,121 [main] INFO com.oop.staticblock.StaticBlock3 - 2nd static block
+2020-02-16 19:24:20,121 [main] INFO com.oop.staticblock.StaticBlock3 - main
+2020-02-16 20:21:52,108 [main] INFO com.oop.staticblock.StaticBlock4 - 1st static block
+2020-02-16 20:21:52,113 [main] INFO com.oop.staticblock.StaticBlock4 - 2nd SB
+2020-02-16 20:21:52,113 [main] INFO com.oop.staticblock.StaticBlock4 - main
+2020-02-16 20:26:15,942 [main] INFO com.oop.staticblock.StaticBlock4 - 1st static block
+2020-02-16 20:26:15,957 [main] INFO com.oop.staticblock.StaticBlock4 - 2nd SB
+2020-02-16 20:26:15,957 [main] INFO com.oop.staticblock.StaticBlock4 - main
+2020-02-17 13:19:06,842 [main] INFO com.oop.staticblock.StaticBlock5 - 1st SB
+2020-02-17 13:19:06,848 [main] INFO com.oop.staticblock.StaticBlock5 - main
